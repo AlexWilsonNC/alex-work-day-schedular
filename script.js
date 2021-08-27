@@ -37,12 +37,6 @@ $(document).ready(function () {
         })
     };
 
-    // var hours = 'hour9';
-
-    // for (var i = 0; i < hours.length; i++) {
-        
-    // }
-
     $('#hour9 .decription').val(localStorage.getItem('hour9'));
     $('#hour10 .decription').val(localStorage.getItem('hour10'));
     $('#hour11 .decription').val(localStorage.getItem('hour11'));
