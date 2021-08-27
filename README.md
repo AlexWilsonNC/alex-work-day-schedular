@@ -7,4 +7,4 @@
 
 ## Everything looks close to the example and text in field stays in local storage upon refresh and actively logs upon save icon click.
 
-![screeshot](assets/screenshot.jpg)
+![screeshot](./assets/screenshot.jpg)
